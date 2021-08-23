@@ -25,6 +25,9 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Post And Fetch Data Using React-query](https://medium.com/analytics-vidhya/how-to-post-and-fetch-data-using-react-query-4c3280c0ef96?source=rss-1b96652b428a------2)
+- [Fetching Covid-19 Data using React.js, Material UI, and Material-Table Part 2](https://medium.com/analytics-vidhya/fetching-covid-19-data-using-react-js-material-ui-and-material-table-part-2-8a1f88a954ba?source=rss-1b96652b428a------2)
+- [Fetching covid-19 data using react.js, material ui, and material-table](https://zudemwango.medium.com/fetching-covid-19-data-using-react-js-material-ui-and-material-table-d41314706b59?source=rss-1b96652b428a------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
