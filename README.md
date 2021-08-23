@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **Am a music fanatic!**
 
-### Blogs posts
+### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
