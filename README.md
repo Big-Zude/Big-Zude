@@ -13,7 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [https://zude.netlify.app/](https://zude.netlify.app/)
 
-- 💬 Ask me about **react, react-query, redux and material ui**
+- 📝 I regularly write articles on [https://zudemwango.medium.com/](https://zudemwango.medium.com/)
+
+- 💬 Ask me about **react, react-query, javascript, redux and material ui**
 
 - 📫 How to reach me **https://twitter.com/Big_Zude**
 
@@ -44,3 +46,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=big-zude&show_icons=true&locale=en&layout=compact" alt="big-zude" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=big-zude&show_icons=true&locale=en" alt="big-zude" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=big-zude&" alt="big-zude" /></p>
