@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zude</h1>
 <h3 align="center">A passionate frontend engineer from Zambia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=big-zude&label=Profile%20views&color=0e75b6&style=flat" alt="big-zude" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=big-zude" alt="big-zude" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/big_zude" target="blank"><img src="https://img.shields.io/twitter/follow/big_zude?logo=twitter&style=for-the-badge" alt="big_zude" /></a> </p>
@@ -25,19 +23,16 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How To Post And Fetch Data Using React-query](https://medium.com/analytics-vidhya/how-to-post-and-fetch-data-using-react-query-4c3280c0ef96?source=rss-1b96652b428a------2)
-- [Fetching Covid-19 Data using React.js, Material UI, and Material-Table Part 2](https://medium.com/analytics-vidhya/fetching-covid-19-data-using-react-js-material-ui-and-material-table-part-2-8a1f88a954ba?source=rss-1b96652b428a------2)
-- [Fetching covid-19 data using react.js, material ui, and material-table](https://zudemwango.medium.com/fetching-covid-19-data-using-react-js-material-ui-and-material-table-d41314706b59?source=rss-1b96652b428a------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/bigzude" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/bigzude" height="30" width="40" /></a>
+<a href="https://dev.to/bigzude" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="bigzude" height="30" width="40" /></a>
 <a href="https://twitter.com/big_zude" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="big_zude" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/zude-mwango-0a17b3122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/zude-mwango-0a17b3122" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/zudemwango" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/zudemwango" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zude-mwango-0a17b3122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zude-mwango-0a17b3122" height="30" width="40" /></a>
+<a href="https://www.behance.net/zudemwango" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="zudemwango" height="30" width="40" /></a>
 <a href="https://medium.com/@zudemwango" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zudemwango" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/zudeone/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/zudeone/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/zudeone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zudeone" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
