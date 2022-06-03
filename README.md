@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zude</h1>
-<h3 align="center">A passionate frontend engineer from Zambia</h3>
+<h3 align="center">A passionate React engineer from Zambia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=big-zude&label=Profile%20views&color=0e75b6&style=flat" alt="big-zude" /> </p>
 
@@ -33,7 +33,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/bigzude" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="bigzude" height="30" width="40" /></a>
-<a href="https://twitter.com/yasuke_zu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="big_zude" height="30" width="40" /></a>
+<a href="https://twitter.com/Yasuke_Zu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="big_zude" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zude-mwango-0a17b3122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zude-mwango-0a17b3122" height="30" width="40" /></a>
 <a href="https://www.behance.net/zudemwango" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="zudemwango" height="30" width="40" /></a>
 <a href="https://medium.com/@zudemwango" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zudemwango" height="30" width="40" /></a>
