@@ -7,19 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/big_zude" target="blank"><img src="https://img.shields.io/twitter/follow/big_zude?logo=twitter&style=for-the-badge" alt="big_zude" /></a> </p>
 
-- 🔭 I’m currently working on **Logistics Admin dashboard**
+- 🔭 I’m currently working on **React-native Mobile game and a dashboard)**
 
-- 🌱 I’m currently learning **Data structures & algorithms, Typescript**
-
-- 👨‍💻 All of my projects are available at [https://zude.netlify.app/](https://zude.netlify.app/)
+- 🌱 I’m currently learning **Project Management**
 
 - 📝 I regularly write articles on [https://zudemwango.medium.com/](https://zudemwango.medium.com/)
 
-- 💬 Ask me about **react, react-query, javascript, redux and material ui**
-
-- 📫 How to reach me **https://twitter.com/Big_Zude**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/17BZh4LJPPB9UXRf4mCjPO9sRXZWD6My5/view](https://drive.google.com/file/d/17BZh4LJPPB9UXRf4mCjPO9sRXZWD6My5/view)
+- 💬 Ask me about **react, react-native react-query, rtk-query. typescript, javascript, redux-toolkit and material ui**
 
 - ⚡ Fun fact **Am a music fanatic!**
 
